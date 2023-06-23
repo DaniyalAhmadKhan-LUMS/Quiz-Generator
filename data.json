@@ -1,0 +1,38 @@
+[
+    {
+        "Question": "1. What has been the author's involvement in the startup ecosystem since arriving in Silicon Valley in 1994?",
+        "Option A": "a) As a board member",
+        "Option B": "b) As an angel investor",
+        "Option C": "c) As an advisor",
+        "Option D": "d) All of the above",
+        "Explain A": "Option A: The author has been involved as a board member, but this is not the only role they have played in the startup ecosystem.",
+        "Explain B": "Option B: The author has been involved as an angel investor, but this is not the only role they have played in the startup ecosystem.",
+        "Explain C": "Option C: The author has been involved as an advisor, but this is not the only role they have played in the startup ecosystem.",
+        "Explain D": "Option D: The author has been involved in various roles in the startup ecosystem, including as a board member, angel investor, advisor, friend of founders, and participant in venture capital funds.",
+        "Correct": "D"
+    },
+    {
+        "Question": "2. How many startups has the author been exposed to in enough detail to know what they are talking about?",
+        "Option A": "a) 10-20",
+        "Option B": "b) 20-30",
+        "Option C": "c) 30-40",
+        "Option D": "d) 40-50",
+        "Explain A": "Option A: The author has been exposed to more than 10-20 startups in enough detail to know what they are talking about.",
+        "Explain B": "Option B: The author has been exposed to more than 20-30 startups in enough detail to know what they are talking about.",
+        "Explain C": "Option C: The author has been exposed to more than 30-40 startups in enough detail to know what they are talking about.",
+        "Explain D": "Option D: The author has been exposed to a broad range of around 40-50 startups in enough detail to know what they are talking about.",
+        "Correct": "D"
+    },
+    {
+        "Question": "3. What is the primary focus of the series mentioned in the source?",
+        "Option A": "a) The author's personal journey in Silicon Valley",
+        "Option B": "b) Lessons learned from the author's involvement in various startups",
+        "Option C": "c) The history of Silicon Valley and its impact on the global economy",
+        "Option D": "d) The role of venture capital funds in the success of startups",
+        "Explain A": "Option A: While the author's personal journey in Silicon Valley is mentioned, it is not the primary focus of the series.",
+        "Explain B": "Option B: The series focuses on the lessons learned from the author's involvement in various startups, including their roles as a board member, angel investor, advisor, friend of founders, and participant in venture capital funds.",
+        "Explain C": "Option C: The history of Silicon Valley and its impact on the global economy may be a part of the series, but it is not the primary focus.",
+        "Explain D": "Option D: The role of venture capital funds in the success of startups is mentioned, but it is not the primary focus of the series.",
+        "Correct": "B"
+    }
+]
