@@ -1,0 +1,7 @@
+openai==0.27.8
+langchain==0.0.225
+pydf==12
+tiktoken==0.4.0
+pyloader==0.1.5
+pypdf==3.8.1
+PyPDF2==3.0.1
