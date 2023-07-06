@@ -1,0 +1,16 @@
+[
+
+    {
+      "question": "Which function is used to serialize an object into a JSON string in Javascript?",
+      "choices": ["stringify()", "parse()", "convert()", "None of the above"],
+      "type": "MCQs",
+      "correctAnswer": "stringify()",
+      "choicesDescriptions": [
+          "The 'var' keyword declares a variable, optionally initializing it to a value. But it is function scoped and hoisted, which may cause some unexpected results.",
+          "The 'let' keyword declares a block-scoped local variable, optionally initializing it to a value. It is a more modern choice compared to 'var'",
+          "In JavaScript, we can define variables using both var and let keywords.",
+          "We can definitely use 'var' or 'let' to define a variable in JavaScript."
+      ]
+    }
+    
+  ]
